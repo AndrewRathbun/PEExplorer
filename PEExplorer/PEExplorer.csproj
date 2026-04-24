@@ -356,7 +356,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MahApps.Metro">
-      <Version>1.6.5</Version>
+      <Version>2.4.11</Version>
     </PackageReference>
     <PackageReference Include="Prism.Core">
       <Version>7.1.0.431</Version>
